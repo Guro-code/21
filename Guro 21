@@ -3,8 +3,8 @@
 
 using namespace std;
 int main(){
-    double a;double b;double c;double d;double e;double f;double g;double h;double i;double j;double k;double l;double m;double n;double o;double p;double q;double r;double s;double t;double u;
-    cout << "motamashe 1:";
+    double a;double b;double c;double d;double e;double f;double g;double h;double i;double j;double k;double l;double m;double n;double o;double p;double q;double r;double s;double t;int u;
+    cout << "Motamashe 1:";
     cin >> a;
     cout <<" Motamashe 2:";
     cin >> b;
@@ -67,7 +67,8 @@ int main(){
     s = pow(s, 2);
     t = pow(t, 2);
     u = sqrt(a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t);
-    cout << "21" <<u <<endl;
+    cout << "21" <<endl;
+    cout <<"Dasrulda"<<endl;
     
     
     return 0;
